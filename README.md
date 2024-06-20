@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumut</h1>
+<h1 align="center">Hi 👋, I'm Soumit</h1>
 <h3 align="center">A budding engineering student trying to make the best use of computers for mechanical engineers.</h3>
 
 - 🔭 I’m currently working on **SFD-BMD generator**
