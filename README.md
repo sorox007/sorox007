@@ -17,8 +17,7 @@ I’m currently working on SFD-BMD generator<br><br>🌱 I’m currently learnin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sorox007&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorox007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Meme
-<img src='https://img.randme.me/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sorox007&icon=0&color=6)](https://visitcount.itsvg.in)
